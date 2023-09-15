@@ -5,3 +5,44 @@ Optimisations by Peter Eastman (peastman@drizzle.stanford.edu).
 
 - - -
 Added seed support by Daniel Niesmann (daniel.niesmann@outlook.com) in 2023.
+
+
+How to implement (Maven/Gradle)
+-
+Maven repository:
+```
+<repositories>
+    <repository>
+        <id>jitpack</id>
+        <url>https://jitpack.io</url>
+    </repository>
+    <!--Other repositories...-->
+</repositories>
+```
+Maven dependency:
+```
+<dependencies>
+    <dependency>
+        <groupId>com.github.danieldieeins</groupId>
+        <artifactId>SimplexNoiseJava</artifactId>
+        <version>2023.1.1</version>
+        <scope>compile</scope>
+    </dependency>
+    <!--Other dependencies...-->
+<dependencies>
+```
+---
+Gradle repository:
+```
+repositories {
+    maven { url 'https://jitpack.io' }
+    //Other repositories...
+}
+```
+Gradle dependency:
+```
+dependencies {
+    implementation 'com.github.danieldieeins:SimplexNoiseJava:2023.1.1'
+    //Other dependencies...
+}
+```
