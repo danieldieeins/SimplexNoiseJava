@@ -3,7 +3,7 @@ Based on example code by Stefan Gustavson (stegu@itn.liu.se).
 
 Optimisations by Peter Eastman (peastman@drizzle.stanford.edu).
 
-For the SimplexNoise C++ project: https://github.com/SRombauts/SimplexNoise
+Searching for the SimplexNoise C++ project? -> https://github.com/SRombauts/SimplexNoise
 
 - - -
 Added seed support by Daniel Niesmann (daniel.niesmann@outlook.com) in 2023.
