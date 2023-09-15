@@ -1,5 +1,6 @@
 # SimplexNoiseJava
 Based on example code by Stefan Gustavson (stegu@itn.liu.se).
+
 Optimisations by Peter Eastman (peastman@drizzle.stanford.edu).
 
 - - -
