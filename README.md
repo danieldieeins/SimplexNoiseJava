@@ -10,7 +10,7 @@ Added seed support by Daniel Niesmann (daniel.niesmann@outlook.com) in 2023.
 
 
 How to implement (Maven/Gradle)
--
+---
 Maven repository:
 ```
 <repositories>
@@ -33,7 +33,7 @@ Maven dependency:
     <!--Other dependencies...-->
 <dependencies>
 ```
----
+-
 Gradle repository:
 ```
 repositories {
