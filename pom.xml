@@ -6,7 +6,7 @@
 
     <groupId>live.nerotv</groupId>
     <artifactId>SimplexNoiseJava</artifactId>
-    <version>2023.1.1</version>
+    <version>2023.1.2</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
