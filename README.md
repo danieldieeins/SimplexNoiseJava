@@ -1,4 +1,4 @@
-# SimplexNoiseJava ``23.1.2``
+# SimplexNoiseJava ``2023.1.2``
 Based on example code by Stefan Gustavson (stegu@itn.liu.se).
 
 Optimisations by Peter Eastman (peastman@drizzle.stanford.edu).
