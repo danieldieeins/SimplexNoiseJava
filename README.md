@@ -33,8 +33,7 @@ Maven dependency:
     <!--Other dependencies...-->
 <dependencies>
 ```
--
-
+--
 Gradle repository:
 ```
 repositories {
