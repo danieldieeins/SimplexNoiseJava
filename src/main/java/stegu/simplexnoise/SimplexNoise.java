@@ -11,15 +11,20 @@ import java.util.Random;
  *
  * This could be speeded up even further, but it's useful as it is.
  *
- * Version 2012-03-09
+ * version 2012-03-09 (old)
  *
  * This code was placed in the public domain by its original author, Stefan
  * Gustavson. You may use it as you see fit, but attribution is appreciated.
  *
- * @author Christian Bargmann <christian.bargmann@haw-hamburg.de>
- * @version 12.07.2017
- * @since 12.07.2017 , 17:13:04
+ * author Christian Bargmann <christian.bargmann@haw-hamburg.de>
+ * version 12.07.2017 (old)
+ * since 12.07.2017 , 17:13:04
  *
+ * @author Daniel Niesman <daniel.niesmann@outlook.com>
+ * @version 2023.2
+ * @since 20th September 2023
+ *
+ * Updated with the void setSeed(long);, the long getSeed(); and privat static variable seed (long)
  */
 
 public class SimplexNoise { // Simplex noise in 2D, 3D and 4D
